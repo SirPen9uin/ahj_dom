@@ -1,4 +1,4 @@
-name: Deploy ahj-homeworks-dom-moving-element to Pages
+name: Deploy ahj_dom to Pages
 
 on:
   push:
